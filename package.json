@@ -1,0 +1,21 @@
+{
+  "name": "react-ssr-map-reduce",
+  "version": "1.0.0",
+  "description": "Map/Reduce React SSR",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/jest/bin/jest.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-jest": "^21.0.2",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^21.1.0",
+    "jsdom": "^11.2.0",
+    "prop-types": "^15.5.10",
+    "react": "15",
+    "react-dom": "15"
+  }
+}
